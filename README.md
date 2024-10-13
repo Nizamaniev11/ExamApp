@@ -1,4 +1,4 @@
-# Project Title
+# ExamApp
 
 ## Description
 This project is an exam registration system for school students. It allows for the registration of subjects, students, and exam results.
