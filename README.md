@@ -22,7 +22,7 @@ This project is an exam registration system for school students. It allows for t
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/Nizamaniev11/ExamApp.git
    ```
 
 2. **Navigate to the project directory**:
