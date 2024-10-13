@@ -42,8 +42,9 @@ This project is an exam registration system for school students. It allows for t
    }
    ```
 
-5. **Run migrations to create the database schema**:
+5. **Run migrations to create the database schema and update to apply to database**:
    ```bash
+   dotnet ef migrations add InitialCreate
    dotnet ef database update
    ```
 
